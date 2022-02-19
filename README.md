@@ -1,2 +1,2 @@
-# hunt-3
-akkakakakakaakakakakamkmakmamskmakmskamamskmaskakms
+# Proyecto-Osos-Emma
+Librerias Preparadas
